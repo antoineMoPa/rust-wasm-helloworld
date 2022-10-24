@@ -6,13 +6,13 @@ You need wasm-pack, find it here: https://rustwasm.github.io/docs/wasm-pack/quic
 
 # Running
 
-```
-wasm-pack build --target web
-```
+Simply run:
 
 ```
-python3 -m http.server
+make
 ```
+
+Read Makefile to know how this works!
 
 # Source
 
